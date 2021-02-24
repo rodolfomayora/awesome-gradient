@@ -154,6 +154,18 @@
   padding-bottom: 10%;
 }
 
+.layer-1,
+.layer-2,
+.layer-3,
+.layer-4,
+.layer-5,
+.layer-6,
+.layer-7,
+.layer-8,
+.layer-9 {
+  filter: blur(1px);
+}
+
 .title {
   font-size: 5vmin;
   font-weight: 700;
